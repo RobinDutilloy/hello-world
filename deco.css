@@ -1,0 +1,33 @@
+
+h1{
+    text-align:center;
+    font-size: 90px;
+}
+
+h2{
+    position: absolute;
+    top: 200px; left: 300px;
+    font-size: x-large;
+
+}
+h3{
+   position: absolute;
+   top: 194px; right: 300px;
+   font-size: x-large;
+}
+
+#G{
+    font-size: xx-large;
+    color: seagreen;
+}
+
+#H{
+    font-size: xx-large;
+    color: red;
+}
+
+img{
+    position: absolute;
+    opacity: 60%;
+    top: 100px; left: 500px;
+}
